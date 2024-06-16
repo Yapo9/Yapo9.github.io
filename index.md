@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yapo9.github.io/images/fuyapeng.png" class="floatpic" width="360" height="380">
+<img src="https://yapo9.github.io/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
