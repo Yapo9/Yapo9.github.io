@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
+<img src="http://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
 Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
