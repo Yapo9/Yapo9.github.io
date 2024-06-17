@@ -2,15 +2,17 @@ title: Ya-Peng Fu
 tagline: Ph.D. candidate in Economics
 description: Ph.D. candidate in Economics
 #Comment out url when working locally to resolve base urls correctly
-url: https://yapo9.github.io/
+url: https://yapengf.com
 
 # Owner/author information
 owner:
   name: Ya-Peng Fu
   avatar: yapeng.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: yapengf@outlook.com
+  cv_en: https://yapengf.com/file/CV-HanlinCAI.pdf
+  cv_zh: https://yapengf.com/file/CV-HanlinCAI.pdf
+  subions: https://mp.weixin.qq.com/s?__biz=Mzg4MDc1ODY1MQ==&mid=2247484157&idx=1&sn=010fef31961a10c0d700f1b768c0195f&chksm=cf7118e9f80691ffcf4e32c725a2270268cbd4820578f9ed403c0ede657b4fe32699821b8896&token=1851215381&lang=zh_CN#rd
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
