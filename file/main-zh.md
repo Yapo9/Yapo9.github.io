@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /file/publications-zh/index.html
-title: Publications-zh
+permalink: /file/main-zh/index.html
+title: 主要介绍
 ---
 
 > 更新时间：2024/07/16 &nbsp;  [English Version (英文)](https://yaengf.com/index/)
