@@ -2,6 +2,8 @@
 layout: page
 ---
 
+> Lastest Update: 16th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/file/main-zh/)
+
 # About Me
 
 <img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
