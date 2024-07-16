@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/main-zh/index.html
-title: 主要介绍
+title: 简介
 ---
 
 > 更新时间：2024/07/16 &nbsp;  [English Version (英文)](https://yapengf.com/)
