@@ -4,7 +4,7 @@ permalink: /file/main-zh/index.html
 title: 主要介绍
 ---
 
-> 更新时间：2024/07/16 &nbsp;  [English Version (英文)](https://yapengf.com/index/)
+> 更新时间：2024/07/16 &nbsp;  [English Version (英文)](https://yapengf.com/)
 
 ## 数学建模竞赛论文
 
