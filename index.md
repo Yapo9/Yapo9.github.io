@@ -4,13 +4,14 @@ layout: page
 
 > Lastest Update: 16th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/file/main-zh/)
 
+
+### Thank you for visiting! My website is still a work in progress. I appreciate your patience as I put the finishing touches on it.
+
 # About Me
 
 <img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
 Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
-
-**Thank you for visiting! My website is still a work in progress. I appreciate your patience as I put the finishing touches on it.**
 
 I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
