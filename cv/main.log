@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  18 JUN 2024 01:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  16 JUL 2024 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -937,28 +937,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
  []
 
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 65.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 62.
 (d:/texlive/2023/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 111.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 106.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 114.
+(hyperref)                removing `\faPreselectedIcon' on input line 113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 114.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.47499pt
-(hyperref)                replaced by space on input line 114.
+(hyperref)                replaced by space on input line 113.
 
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 131.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 123.
 [1
 
 ] [2] (./main.aux)
@@ -971,15 +971,15 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: DC8DFF3DBC255646B3D3FD15A7E0D8E1;586
-(rerunfilecheck)             After:  76F3E69EA0C95BCA3A9A59E902D9B239;890.
+(rerunfilecheck)             Before: 76F3E69EA0C95BCA3A9A59E902D9B239;890
+(rerunfilecheck)             After:  DC8DFF3DBC255646B3D3FD15A7E0D8E1;586.
  ) 
 Here is how much of TeX's memory you used:
- 29663 strings out of 478630
- 614605 string characters out of 5847730
- 1874012 words of memory out of 5000000
- 49253 multiletter control sequences out of 15000+600000
- 518021 words of font info for 74 fonts, out of 8000000 for 9000
+ 29819 strings out of 478630
+ 626521 string characters out of 5847730
+ 1884012 words of memory out of 5000000
+ 49404 multiletter control sequences out of 15000+600000
+ 518061 words of font info for 79 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  129i,11n,122p,997b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
