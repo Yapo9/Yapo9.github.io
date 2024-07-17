@@ -34,7 +34,8 @@ title: 简介
 # 我的论文列表
 
 欢迎查看我的论文列表。你可以点击“摘要”按钮来查看每篇论文的摘要。
-
+## 已发表论文
+- “Sadly, this space is still empty, but I hope to fill it with some content soon. Stay tuned!”
 <ul>
   <li>
     <span>论文标题1</span>
@@ -68,6 +69,7 @@ title: 简介
   .abstract-content {
     display: none;
     margin-top: 10px;
+    font-size: 0.9em; /* 调整摘要内容的字体大小 */
   }
   .toggle-abstract {
     cursor: pointer;
@@ -77,6 +79,7 @@ title: 简介
     padding: 0;
     text-decoration: underline;
     margin-left: 10px;
+    font-size: 0.9em; /* 调整“摘要”按钮的字体大小 */
   }
   li {
     margin-bottom: 20px;

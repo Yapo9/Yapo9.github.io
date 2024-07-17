@@ -15,9 +15,9 @@ Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
 I received my bachelor's degree in economics from School of Economics, University of Chinese Academy of Social Sciences(SOE,UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE,UCASS. 
 
-My research interests focus on microeconomic theory, social security, and public economics. 
+My research interests focus on microeconomic theory, social security, and public economics. Recently, I have been working on some research related to public policy evaluation, mathematical methods of economics, medical insurance research, fiscal and tax policies, etc.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
 
 ---
 
