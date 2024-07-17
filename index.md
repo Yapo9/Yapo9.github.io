@@ -13,7 +13,7 @@ layout: page
 
 Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
-I received my bachelor's degree in economics from the School of Economics, University of Chinese Academy of Social Sciences (SOE, UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE, UCASS. 
+I received my bachelor's degree in economics from School of Economics, University of Chinese Academy of Social Sciences(SOE,UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE,UCASS. 
 
 My research interests focus on microeconomic theory, social security, and public economics. 
 
