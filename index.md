@@ -31,13 +31,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Labor and Social Security
+- Microeconomic Theory
+- Public Economics
+- Mathematical Methods of Economics
+  
+[One of my early research proposal (July 2023, 中文Chinese Version)](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. Currently, my research focuses on the field of social security, especially health insurance.
 
 ---
 
