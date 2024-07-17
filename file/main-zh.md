@@ -29,3 +29,57 @@ title: 简介
 ## 毕业设计论文
 
 - [面向低功耗蓝牙网络的复合型欺骗攻击检测机制](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2023/12 — 2024/05）<br>本项目以海报论文形式，发表在AAAI 2024 UC，计划进一步投稿至KDD 2024
+
+
+# 我的论文列表
+
+欢迎查看我的论文列表。你可以点击“摘要”按钮来查看每篇论文的摘要。
+
+<ul>
+  <li>
+    <span>论文标题1</span>
+    <button class="toggle-abstract" onclick="toggleAbstract('abstract1')">摘要</button>
+    <div id="abstract1" class="abstract-content">
+      <p>这是论文1的摘要内容。</p>
+    </div>
+  </li>
+  <li>
+    <span>论文标题2</span>
+    <button class="toggle-abstract" onclick="toggleAbstract('abstract2')">摘要</button>
+    <div id="abstract2" class="abstract-content">
+      <p>这是论文2的摘要内容。</p>
+    </div>
+  </li>
+  <!-- 添加更多论文条目 -->
+</ul>
+
+<script>
+  function toggleAbstract(id) {
+    var abstract = document.getElementById(id);
+    if (abstract.style.display === "none" || abstract.style.display === "") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+</script>
+
+<style>
+  .abstract-content {
+    display: none;
+    margin-top: 10px;
+  }
+  .toggle-abstract {
+    cursor: pointer;
+    color: blue;
+    background: none;
+    border: none;
+    padding: 0;
+    text-decoration: underline;
+    margin-left: 10px;
+  }
+  li {
+    margin-bottom: 20px;
+  }
+</style>
+
