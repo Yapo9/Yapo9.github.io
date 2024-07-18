@@ -76,6 +76,9 @@ You can click on the “abstract” button to view the abstract of each paper an
     display: none;
     margin-top: 10px;
     font-size: 0.9em; /* 调整摘要内容的字体大小 */
+    background-color: #f0f0f0; /* 设置摘要内容的背景色 */
+    padding: 10px; /* 设置摘要内容的内边距 */
+    border-radius: 5px; /* 设置摘要内容的圆角 */
   }
   .toggle-abstract {
     cursor: pointer;
