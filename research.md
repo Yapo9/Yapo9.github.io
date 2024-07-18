@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/index.html
-title: Publications
+title: research
 ---
 
 > Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/research-zh/)
