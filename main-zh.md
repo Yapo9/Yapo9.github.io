@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /file/main-zh/index.html
+permalink: /main-zh/index.html
 title: 简介
 ---
 

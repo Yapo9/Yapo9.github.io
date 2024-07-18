@@ -2,7 +2,7 @@
 layout: page
 ---
 
-> Lastest Update: 16th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/file/main-zh/)
+> Lastest Update: 16th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/main-zh/)
 
 
 ### Thank you for visiting! My website is still a work in progress. I appreciate your patience as I put the finishing touches on it.
