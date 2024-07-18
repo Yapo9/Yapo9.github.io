@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /activity/index.html
+permalink: /activity-zh/index.html
 title: Activity
 ---
 
