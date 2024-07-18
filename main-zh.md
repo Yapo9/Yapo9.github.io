@@ -12,7 +12,7 @@ title: 简介
 
 <img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
-我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），研究方向为微观经济理论与公共政策。
+我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），研究方向为微观经济理论与公共政策、健康经济学。
 
 您可以点击查看我的**个人简历**[（英文版）](https://yapengf.com/cv/cv_en.pdf)以及[（中文版）](https://yapengf.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
 
@@ -20,32 +20,31 @@ title: 简介
 
 ## 教育背景
 
-- **Sep 2024 - Future：** Ph.D. in Economics, University of Chinese Academy of Social Sciences (UCASS)
-- **Sep 2020 - June 2024:** B.S. in Economics, University of Chinese Academy of Social Sciences (UCASS)
+- **Sep 2024 - Future：** 中国社会科学院大学，经济学博士（直博生在读）
+- **Sep 2020 - June 2024:** 中国社会科学院大学，经济学学士
 
 
 ---
 
 ## 研究兴趣
 
-- Labor and Social Security
-- Microeconomic Theory
-- Public Economics
-- Mathematical Methods of Economics
+- 劳动经济学
+- 社会保障
+- 微观经济理论
+- 健康经济学
+- 公共经济学
   
-My research interests focus on social security, microeconomic theory, and public economics. Recently, I have been working on some research related to public policy evaluation, mathematical methods of economics, medical insurance research, fiscal and tax policies, etc.
-
-One of my early research proposal [(July 2023, 中文Chinese Version)](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. 
+我的研究兴趣主要集中在社会保障、微观经济理论、卫生经济学和公共经济学。最近，我正在从事一些与公共政策评估、医疗保险研究、财政和税收政策等有关的研究。而我之前的一份 [研究计划（2023年）](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗侧重于中国的土地财政以及政府与市场之间的关系，我认为自己今后可能会继续从事这方面的研究。
 
 ---
 
 ## 一些新鲜事
 
-- **Jul. 2024 ：** My undergraduate dissertation won the *Beijing Outstanding Graduation Thesis*（0.7%）🎉
-- **Jul. 2024 ：** Participated in two forums on labor economics and social security at SUFE
-- **May. 2024 ：** I was awarded one of the *Outstanding Graduates of Beijing* (5%) 🎉
-- **Sep. 2023 ：** Received an offer of Ph.D program in UCASS
-- **May. 2023 ：** Participated in the *New Era Chinese Youth Economic Forum* at SOE of PKU, and was awarded the *Outstanding Youth Academic Delegate*
-- **Apr. 2023 ：** Participated in the *National Development Youth Forum* at NSD of PKU
-- **Jul. 2022 ：** Participated in the "Camphor Economics" summer school
+- **Jul. 2024 ：** 我的本科毕业论文获北京市高校优秀毕业论文（0.7%）🎉
+- **Jul. 2024 ：** 前往上海财经大学参加两场论坛（香樟社会保障论坛与中国劳动经济学者论坛年会）
+- **May. 2024 ：** 被评为北京市高校优秀本科毕业生（5%） 🎉
+- **Sep. 2023 ：** 还是选择在中国社会科学院大学经济学院继续读博
+- **May. 2023 ：** 参加北京大学经济学院第十二届新时代中国青年经济论坛，并获“优秀青年学术代表”
+- **Apr. 2023 ：** 参加北京大学国家发展研究院第五届国家发展青年论坛
+- **Jul. 2022 ：** 参与“香樟青苗计划”暑期课堂
 
