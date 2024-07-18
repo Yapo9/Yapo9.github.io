@@ -42,9 +42,12 @@ One of my early research proposal [(July 2023, 中文Chinese Version)](https://y
 
 ## News and Updates
 
-- **Jul. 2024 ：** My undergraduate dissertation won the Beijing Outstanding Graduation Thesis（0.7%）🎉
-- **Jun. 2024 ：** I was awarded one of the "Outstanding Graduates of Beijing" (5%) 🎉
-- **Sept. 2023：** Received an offer of Ph.D program in UCASS.
+- **Jul. 2024 ：** My undergraduate dissertation won the *Beijing Outstanding Graduation Thesis*（0.7%）🎉
+- **Jul. 2024 ：** Participated in two forums on labor economics and social security at SUFE
+- **May. 2024 ：** I was awarded one of the* Outstanding Graduates of Beijing* (5%) 🎉
+- **Sep. 2023 ：** Received an offer of Ph.D program in UCASS
+- **May. 2023 ：** Participated in the *New Era Chinese Youth Economic Forum* at SOE of PKU, and was awarded the *Outstanding Youth Academic Delegate*
+- **Apr. 2023 ：** Participated in the *National Development Youth Forum* at NSD of PKU
 - **Jul. 2022 ：** Participated in the "Camphor Economics" summer school
 
 
