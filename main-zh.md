@@ -8,7 +8,7 @@ title: 简介
 
 #### "网站仍在建设中，敬请期待！"
 
-### 简介
+## 简介
 
 <img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
@@ -18,7 +18,7 @@ title: 简介
 
 ---
 
-### 教育背景
+## 教育背景
 
 - **Sep 2024 - Future：** Ph.D. in Economics, University of Chinese Academy of Social Sciences (UCASS)
 - **Sep 2020 - June 2024:** B.S. in Economics, University of Chinese Academy of Social Sciences (UCASS)
@@ -26,7 +26,7 @@ title: 简介
 
 ---
 
-### 研究兴趣
+## 研究兴趣
 
 - Labor and Social Security
 - Microeconomic Theory
@@ -39,7 +39,7 @@ One of my early research proposal [(July 2023, 中文Chinese Version)](https://y
 
 ---
 
-### 一些新鲜事
+## 一些新鲜事
 
 - **Jul. 2024 ：** My undergraduate dissertation won the *Beijing Outstanding Graduation Thesis*（0.7%）🎉
 - **Jul. 2024 ：** Participated in two forums on labor economics and social security at SUFE
