@@ -15,7 +15,7 @@ Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
 I received my bachelor's degree in economics from School of Economics, University of Chinese Academy of Social Sciences(SOE,UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE,UCASS. 
 
-Learn more about me at my CV[(English Version)](https://yapengf.com/cv/cv_en.pdf) or [(Chinese Version)](https://yapengf.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
+Learn more about me at my **CV**[(English Version)](https://yapengf.com/cv/cv_en.pdf) or [(Chinese Version)](https://yapengf.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
 
 ---
 
