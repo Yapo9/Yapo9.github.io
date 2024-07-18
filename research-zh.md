@@ -4,7 +4,7 @@ permalink: /research-zh/index.html
 title: research
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [English Version (英文)](https://yapengf.com/research/)
+> 更新时间：2024年7月18日&nbsp;  [English Version (英文)](https://yapengf.com/research/)
 
 
 

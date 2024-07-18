@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: research
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/research-zh/)
+> Lastest Update: 18th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/research-zh/)
 
 You can click on the “abstract” button to view the abstract of each paper and click on “abstract” again to retrieve it.
 

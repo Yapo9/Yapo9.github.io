@@ -1,0 +1,153 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% Author: Kaihang JI
+% Github Repo: https://github.com/mimicji/Bilingual-Resume-Template
+% Requirement: XeLaTeX
+
+% 使用方法:
+%   ***必须使用XeLaTeX编译***
+%   撰写简历时：在\CN{}内填写中文内容，后其紧跟的\EN{}内填写英文内容
+%   导出时: 选择[Chinese]为中文版，选择[English]为英文版
+\usepackage[Chinese]{languageSelection} % 导出中文版
+%\usepackage[English]{languageSelection} % 导出英文版
+
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[scale=0.915]{geometry}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{fontawesome5}
+\usepackage{zh_CN-Adobefonts_external}
+\usepackage{xeCJK}
+
+\newcommand*{\customcventry}[7][.13em]{
+\begin{tabular}{@{}l}
+{\bfseries #4} \
+{\itshape #3}
+\end{tabular}
+\hfill
+\begin{tabular}{l@{}}
+{\bfseries #5} \
+{\itshape #2}
+\end{tabular}
+\ifx&#7&%
+\else{\
+\begin{minipage}{\maincolumnwidth}%
+\small#7%
+\end{minipage}}\fi%
+\par\addvspace{#1}}
+
+%**************************************************
+%*                 从这里开始                       *
+%**************************************************
+
+% 你的双语姓名
+\name{付亚鹏}{Ya-Peng(Evan)Fu}
+
+\begin{document}
+\makecvtitle
+\vspace*{-10mm}
+
+% 个人title
+\begin{center}
+\vspace*{-5mm}
+\CN{
+    \textbf{经济学博士在读}
+}
+\EN{
+    \textbf{Ph.D. student in Economics}
+}
+\end{center}
+
+
+% 联系方式
+\begin{center}
+\begin{tabular}{ c c c }
+\faPhone\enspace +86 15611577833 & \enspace
+\faWeixin\enspace yapeng_f & \enspace
+\faHome\enspace 
+\CN{北京，中国} \EN{Beijing, CN} \\
+\faEnvelope 1:\enspace
+\color{blue} 
+\href{mailto:yapengf@outlook.com}
+{yapengf@outlook.com} & \enspace
+\faEnvelope 2:\enspace \color{blue}  \href{mailto:1696966846@qq.com}
+{1696966846@qq.com} & \enspace \faLink
+\enspace \color{blue} 
+\href{https://yapengf.com}
+{yapengf.com}
+\end{tabular}
+\end{center}
+
+% 以上项目如需增减，则其它可选图标为：
+% \faWhatsapp         % Whatsapp
+% \faTwitter          % Twitter
+% \faLinkedin         % Linkedin
+% \faLine             % Line
+% \faFacebookSquare   % Facebook
+% \faInstagram        % Instagram
+% \faZhihu            % 知乎
+% 更多图标见: https://mirrors.ibiblio.org/CTAN/fonts/fontawesome5/doc/fontawesome5.pdf
+
+\begin{center}
+    \CN{更新于: \today } \EN{Latest Update: \today}
+\end{center}
+
+% 个人简介
+\CN{
+    \section{个人简介}
+    {个人简介内容。}
+}
+\EN{
+    \section{Profile}
+    {Profile.}
+}
+
+% 教育经历
+\CN{\section{\faBookOpen \enspace 教育经历}}
+\EN{\section{\faBookOpen \enspace Education}}
+
+\CN{
+\customcventry{09/2024 - 06/2029}
+{{中国社会科学院大学}}
+{经济学博士}{北京, 中国}{}{}
+{\begin{itemize}[label=\textbullet]
+\item {相关课程：} 高级宏观经济学
+\end{itemize}}
+}
+\EN{
+\customcventry{09/2024 - 06/2029}
+{{University of Chinese Academy of Social Sciences}}
+{Ph.D. in Economics}{Beijing, China}{}{}
+{\begin{itemize}[label=\textbullet]
+\item {Relevant Courses: } Course
+\end{itemize}}
+}
+
+\CN{
+\customcventry{09/2020 - 06/2024}
+{{中国社会科学院大学}}
+{经济学学士}{北京, 中国}{}{}
+{\begin{itemize}[label=\textbullet]
+\item {相关课程：} 高级宏观经济学
+\end{itemize}}
+}
+\EN{
+\customcventry{09/2020 - 06/2024}
+{{University of Chinese Academy of Social Sciences}}
+{B.S. in Economics}{Beijing, China}{}{}
+{\begin{itemize}[label=\textbullet]
+\item {Relevant Courses: } Course
+\end{itemize}}
+}
+
+\begin{center}
+    \CN{以下内容仍在更新，敬请期待！} \EN{The following are still being updated, so stay tuned!}
+\end{center}
+
+\end{document}
