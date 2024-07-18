@@ -12,7 +12,7 @@ title: 简介
 
 <img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
-我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），我的研究方向为微观经济理论与公共政策。
+我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），研究方向为微观经济理论与公共政策。
 
 您可以点击查看我的**个人简历**[（英文版）](https://yapengf.com/cv/cv_en.pdf)以及[（中文版）](https://yapengf.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
 
