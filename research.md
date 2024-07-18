@@ -44,7 +44,7 @@ You can click on the “abstract” button to view the abstract of each paper an
     </div>
   </li>
     <li>
-    <span><strong>Public Sentiment, Associated Reporting, and Stock Price Volatility</strong> (2022 <em>UCASS Students Innovative Training Program</em>, with Dengqing Han and Zhenglong Cong)</span>
+    <span><strong>Public Sentiment, Associated Reporting, and Stock Price Volatility</strong> (2022 <em>UCASS Students Innovative Training Program</em>, with Zhenglong Cong and Dengqing Han)</span>
     <button class="toggle-abstract" onclick="toggleAbstract('abstract4')">abstract</button>
     <div id="abstract4" class="abstract-content">
       <p>With the rapid development of Internet media, indirect correlation reports also have an increasingly important impact on market opinion. In order to study the nonlinear effect of media-related reports on stock price fluctuations, an improved text information extraction module is proposed by embedding the correlation information structure to obtain the correlation degree between related reports and stocks. The results show that: (1) negative opinion sentiment has a stronger impact on stock price than positive opinion sentiment; (2) there is a single threshold effect of report correlation, and positive opinion sentiment has a stronger impact on stock price when the report correlation is low; (3) The impact of media-related stories on stock price is time-sensitive, and the impact of lagging news is almost zero; (4) The impact of media-related stories on stock price gradually increases with the size of the company.</p>

@@ -14,9 +14,7 @@ title: 简介
 
 我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博）。
 
-My research interests focus on social security, microeconomic theory, and public economics. Recently, I have been working on some research related to public policy evaluation, mathematical methods of economics, medical insurance research, fiscal and tax policies, etc.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
+您可以点击查看我的个人简历[（英文版）](https://yapengf.com/cv/cv_en.pdf)以及[（中文版）](https://yapengf.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
 
 ---
 
@@ -35,7 +33,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Public Economics
 - Mathematical Methods of Economics
   
-One of my early research proposal [(July 2023, 中文Chinese Version)](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. Currently, my research focuses on the field of social security, especially health insurance.
+My research interests focus on social security, microeconomic theory, and public economics. Recently, I have been working on some research related to public policy evaluation, mathematical methods of economics, medical insurance research, fiscal and tax policies, etc.
+
+One of my early research proposal [(July 2023, 中文Chinese Version)](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. 
 
 ---
 
