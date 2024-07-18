@@ -8,44 +8,53 @@ title: research
 
 You can click on the “abstract” button to view the abstract of each paper and click on “abstract” again to retrieve it.
 
-## Publications
+### Publications
 
 - “Sadly, this space is still empty, but I hope to fill it with some content soon. Stay tuned!”
 
-## Working Papers
+### Working Papers
 
 <ul>
   <li>
-    <span>论文标题1</span>
+    <span>**Medical Insurance Payment Reform, Moral Hazard, and Medical Cost Control: Evidence from Bunching-DID** (2024, with Zhenglong Cong, Chenxu Ni and Zhen Wang)</span>
     <button class="toggle-abstract" onclick="toggleAbstract('abstract1')">abstract</button>
     <div id="abstract1" class="abstract-content">
-      <p>这是论文1的摘要内容。</p>
+      <p>This paper aims to assess the impact of health insurance payment reform, especially the DRG/DIP payment, on healthcare cost control and healthcare quality improvement. Using the novel Bunching-DID methodology to identify the distortionary effects of the health insurance "deductible" on patients' visit behaviors (Moral Hazard), the paper finds that the setting of "deductible" led to about 8% of expenses being adjusted above the deductible, and the average annual per capita cost of healthcare was increased by 28.8%. Considering the moral hazard induced by the "deductible", DRG/DIP reforms have limited effect on reducing healthcare costs and improving healthcare quality, with out-of-pocket costs for patients near the "deductible" increasing rather than decreasing and a tendency for hospitals to "shirk" seriously ill patients, and the policy effect is heterogeneous in terms of regions, hospital characteristics, and patient characteristics. In addition, compared with DRG, DIP can effectively reduce patients' moral hazard and ease hospitals' expectation of cost control. This paper provides some insights into the evaluation of policy tools for quality improvement and cost control in healthcare, and how to accurately identify or avoid the moral hazard problem may become the focus and difficulty of subsequent policy evaluation, especially in health economics.</p>
     </div>
   </li>
   <li>
-    <span>论文标题2</span>
+    <span>**Land Finance and Government Implicit Debt: Evidence from Bunching** (2023, with Zhenglong Cong)</span>
     <button class="toggle-abstract" onclick="toggleAbstract('abstract2')">abstract</button>
     <div id="abstract2" class="abstract-content">
-      <p>这是论文2的摘要内容。</p>
+      <p>Steady disposal of local government's hidden debt problem is the focus and difficulty of future government work. Based on the Bunching estimation method, the article identifies the impact of local land transfer behavior on government's hidden debt by using the impact of the minimum price standard for industrial land transfer policy on the land transaction market. It is found that (1) on average, about 11.09% of land parcel transactions between 2008 and 2020 are affected by the National Minimum Price Standard for Industrial Land Sale with a bunching effect; (2) the land sale price limit policy significantly affects local land sale behavior, and on average, the local industrial land sale unit price decreases by 35.22% compared to the counterfactual distribution, and the total price of land parcel sale increases by an average of 7.52%; (3) China's local government land concession revenue has a positive effect on the scale of hidden debt, and on average, for every 1% increase in local land concession revenue, the scale of hidden government debt will increase by 2.02%; (4) The results of heterogeneity analysis show that this positive effect is more significant in regions with higher fiscal transparency, lower returns to capital factors, and net population outflow, while in regions with higher fiscal pressure and The land concession revenue has a negative effect on the scale of hidden debt in regions with a high percentage of non-tax revenue. The results provide innovative paths and theoretical evidence for dissipating local governments' hidden debts and achieving high-quality development.</p>
     </div>
   </li>
 </ul>
 
-## Other Projects
+### Other Projects
 
+- ***Egg in beer*: Research on Government-Market Interaction in the Transformation of Land Finance in China** (*2023 College Students Innovative Training Program*, with Pengchen Li and Lijun Zhou)
+  
 <ul>
   <li>
-    <span>医保支付改革、道德风险与医疗控费——来自Bunching-DID的证据（2024，合作者：丛正龙、倪晨旭、王震）</span>
-    <button class="toggle-abstract" onclick="toggleAbstract('abstract1')">abstract</button>
-    <div id="abstract1" class="abstract-content">
-      <p>本文旨在评估医保支付方式改革特别是DRG/DIP支付模式对于医疗费用控制和医疗质量提升的影响，通过前沿的Bunching-DID方法识别医保“起付线”对患者就诊行为的扭曲效应（道德风险），发现“起付线”的设置使得大约8%的就诊费用被调整至起付线以上，人均年度医疗费用平均提高28.8%。在考虑“起付线”诱导患者道德风险的情况下，DRG/DIP改革在降低医疗费用和提高医疗质量方面的效果有限，“起付线”附近的患者自付费用不降反升，而医院存在“推诿”重症病人的倾向，政策效应在地区、医院特点、患者特征等方面存在异质性。此外，DIP相比DRG能有效降低患者道德风险、缓解医院控费预期。本文在针对评估医疗提质控费的政策工具方面具有一定启示作用，如何精准识别或者避免道德风险问题，或将成为之后政策评估尤其是健康经济学中的重点与难点。</p>
+    <span>**Fiscal Incentives, Market Integration, and New-Type Urbanization: Research on "County-to-District Conversion" based on Staggered DID** (2022 Term Paper on *Econometrics*, with Dengqing Han)</span>
+    <button class="toggle-abstract" onclick="toggleAbstract('abstract2')">abstract</button>
+    <div id="abstract2" class="abstract-content">
+      <p>The "county-to-district conversion" is an important way for local governments in the process of administrative-led urbanization development. Using the statistical data of 260 cities across China from 2009 to 2019, we construct a new urbanization evaluation system based on the essential requirements of "people-oriented, four synchronization, urban-rural integration, ecological civilization, and infrastructure". The study investigates the impact of financial incentives and market integration on the development of new urbanization through the quasi-natural experiment of "county-to-district conversion" policy. The study finds that the implementation of "county-to-district conversion" can integrate municipal factor markets, significantly improve the level of basic public services in districts and counties, and promote the development of new-type urbanization centered on people. The implementation of "county-to-district conversion" can alleviate the polarization effect of capital, promote the diffusion of production factors to districts and counties, thus promoting the development of new urbanization and compensating for the shortcomings in the process of market-led urbanization; however, "county-to-district conversion" will have different degrees of negative impacts on urban-rural integration and ecological civilization.</p>
+    </div>
+  </li>
+    <li>
+    <span>**Public Sentiment, Associated Reporting, and Stock Price Volatility** (*2022 UCASS Students Innovative Training Program*, with Dengqing Han and Zhenglong Cong)</span>
+    <button class="toggle-abstract" onclick="toggleAbstract('abstract2')">abstract</button>
+    <div id="abstract2" class="abstract-content">
+      <p>With the rapid development of Internet media, indirect correlation reports also have an increasingly important impact on market opinion. In order to study the nonlinear effect of media-related reports on stock price fluctuations, an improved text information extraction module is proposed by embedding the correlation information structure to obtain the correlation degree between related reports and stocks. The results show that: (1) negative opinion sentiment has a stronger impact on stock price than positive opinion sentiment; (2) there is a single threshold effect of report correlation, and positive opinion sentiment has a stronger impact on stock price when the report correlation is low; (3) The impact of media-related stories on stock price is time-sensitive, and the impact of lagging news is almost zero; (4) The impact of media-related stories on stock price gradually increases with the size of the company.</p>
     </div>
   </li>
   <li>
-    <span>论文标题2</span>
-    <button class="toggle-abstract" onclick="toggleAbstract('abstract2')">abstract</button>
-    <div id="abstract2" class="abstract-content">
-      <p>这是论文2的摘要内容。</p>
+    <span>**Intergovernmental Transfers, Market Integration, and Equitization of Basic Public Services** (2022 Term Paper on *China's Economy*, with Dengqing Han)</span>
+    <button class="toggle-abstract" onclick="toggleAbstract('abstract1')">abstract</button>
+    <div id="abstract1" class="abstract-content">
+      <p>Market segmentation arising from the decentralized system leads to serious redundant construction in different regions, which is not conducive to achieving the goal of equalization of basic public services. This paper argues that by adjusting intergovernmental transfer payments, it is possible to promote the integration of government market resources, thereby improving the level of equalization of basic public services. Empirical results show that the supply of basic public services exhibits agglomeration effects nationwide; the construction of a unified market has a complex non-linear effect on the equalization of basic public services, exerting a positive effect in the eastern and western regions but a negative effect in the central region; granting more autonomy to governments in the central region is beneficial to local economic development and the improvement of the level of equalization of basic public services.</p>
     </div>
   </li>
   <!-- 添加更多论文条目 -->
