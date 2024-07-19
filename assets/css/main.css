@@ -259,7 +259,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 #main:before,#main:after{content:"";display:table;}
 #main:after{clear:both;}
 
-/* Update in 28 Aug 2023 by Hanlin */
+
 .wide {
     width: 90% !important;
   }
