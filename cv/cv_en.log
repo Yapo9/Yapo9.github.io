@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  19 JUL 2024 11:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  19 JUL 2024 11:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1028,9 +1028,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] (./cv_en.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `cv_en.out' has not changed.
 (rerunfilecheck)             Checksum: 1173BC1CEA3BF2EF6BCA6E7FAFE87859;951.
