@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  18 JUL 2024 22:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  19 JUL 2024 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -941,39 +941,106 @@ LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <10.95> not available
 (d:/texlive/2023/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
-LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 109.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 113.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 113.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 5.47499pt
-(hyperref)                replaced by space on input line 113.
+(hyperref)                replaced by space on input line 103.
 
+LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <14.4> not available
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 130.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 114.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 129.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 129.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.47499pt
+(hyperref)                replaced by space on input line 129.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.47499pt
+(hyperref)                replaced by space on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 157.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 157.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.47499pt
+(hyperref)                replaced by space on input line 157.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.47499pt
+(hyperref)                replaced by space on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 231.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 231.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 5.47499pt
+(hyperref)                replaced by space on input line 231.
+
 [1
 
 ] (./cv_en.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `cv_en.out' has not changed.
-(rerunfilecheck)             Checksum: C9D8B87E17CF2355B085EEE42B75F1B3;219.
+(rerunfilecheck)             Checksum: 1173BC1CEA3BF2EF6BCA6E7FAFE87859;951.
  ) 
 Here is how much of TeX's memory you used:
- 29659 strings out of 478630
- 614516 string characters out of 5847730
- 1857012 words of memory out of 5000000
- 49250 multiletter control sequences out of 15000+600000
- 518013 words of font info for 73 fonts, out of 8000000 for 9000
+ 29690 strings out of 478630
+ 616625 string characters out of 5847730
+ 1874012 words of memory out of 5000000
+ 49276 multiletter control sequences out of 15000+600000
+ 518021 words of font info for 74 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  129i,11n,122p,998b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
