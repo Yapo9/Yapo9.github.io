@@ -1,6 +1,6 @@
 title: Ya-Peng Fu
-tagline: Ph.D. Student in Economics in UCASS
-description: Ph.D. student in Economics in UCASS
+tagline: Ph.D. Student in Economics
+description: Ph.D. student in Economics
 #Comment out url when working locally to resolve base urls correctly
 url: https://yapengf.com
 
@@ -8,7 +8,7 @@ url: https://yapengf.com
 owner:
   name: Ya-Peng Fu
   avatar: yapeng.png
-  bio: Ph.D. Student in Economics in UCASS
+  bio: Ph.D. Student in Economics
   email: yapengf@outlook.com
   emailq: 1696966846@qq.com
   cv_en: https://yapengf.com/cv/cv_en.pdf
