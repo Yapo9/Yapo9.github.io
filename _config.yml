@@ -1,4 +1,4 @@
-title: YaPeng
+title: Ya-Peng Fu
 tagline: Ph.D. Student in Economics
 description: Ph.D. student in Economics
 #Comment out url when working locally to resolve base urls correctly
@@ -77,12 +77,4 @@ kramdown:
   #   coderay_tab_width: 4
   #   coderay_bold_every: 10
   #   coderay_css: class
-
-
-# disqus settings:
-disqus:
-  shortname: yapengfu
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
