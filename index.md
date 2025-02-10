@@ -21,8 +21,8 @@ Learn more about me at my **CV**[(English Version)](https://yapengf.com/cv/cv_en
 
 ## Academic Background
 
-- **Sep 2024 - Future：** Ph.D. in Economics, University of Chinese Academy of Social Sciences (UCASS)
-- **Sep 2020 - June 2024:** B.S. in Economics, University of Chinese Academy of Social Sciences (UCASS)
+- **Sep 2024 - June 2029(Expected)：** Ph.D. in Economics, University of Chinese Academy of Social Sciences (UCASS)
+- **Sep 2020 - June 2024:** B.A. in Economics, University of Chinese Academy of Social Sciences (UCASS)
 
 
 ---
