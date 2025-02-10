@@ -17,8 +17,8 @@ title: 简介
 您可以点击查看我的**个人简历**[（英文版）](https://yapengf.com/cv/cv_en.pdf)以及[（中文版）](https://yapengf.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
 
 - 微信账号: yapeng_f
-- 电子邮箱1: fuyapeng.evan@gmail.com
-- 电子邮箱2: fuyapeng@ucass.edu.cn
+- 电子邮箱1: [fuyapeng.evan@gmail.com](mailto:fuyapeng.evan@gmail.com)
+- 电子邮箱2: [fuyapeng@ucass.edu.cn](mailto:fuyapeng@ucass.edu.cn)
 
 ---
 

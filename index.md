@@ -18,8 +18,8 @@ I received my bachelor's degree in economics from School of Economics, Universit
 Learn more about me at my **CV**[(English Version)](https://yapengf.com/cv/cv_en.pdf) or [(Chinese Version)](https://yapengf.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
 
 - WeChat ID: yapeng_f
-- Email: fuyapeng.evan@gmail.com
-- Alternative Email: fuyapeng@ucass.edu.cn
+- Email: [fuyapeng.evan@gmail.com](mailto:fuyapeng.evan@gmail.com)
+- Alternative Email: [fuyapeng@ucass.edu.cn](mailto:fuyapeng@ucass.edu.cn)
 
 ---
 
