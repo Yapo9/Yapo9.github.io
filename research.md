@@ -10,8 +10,7 @@ You can click on the “abstract” button to view the abstract of each paper an
 
 ### Publications
 
-- “Sadly, this space is still empty, but I hope to fill it with some content soon. Stay tuned!”
-
+- 
 ### Working Papers
 
 <ul>
