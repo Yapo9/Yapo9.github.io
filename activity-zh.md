@@ -4,10 +4,9 @@ permalink: /activity-zh/index.html
 title: Activity
 ---
 
-> 更新时间：2024年7月19日&nbsp;  [English Version (英文)](https://yapengf.com/activity/)
+> 更新时间：2024年7月19日&nbsp;  [English Version (英文)](https://fyapeng.com/activity/)
 
 
-#### "网站仍在建设中，敬请期待！"
 
 <br>
 

@@ -2,20 +2,19 @@
 layout: page
 ---
 
-> Lastest Update: 19th July 2024&nbsp;  [中文版本 (Chinese Version)](https://yapengf.com/main-zh/)
+> Lastest Update: 19th July 2024&nbsp;  [中文版本 (Chinese Version)](https://fyapeng.com/main-zh/)
 
 
-### Thank you for visiting! My website is still a work in progress. I appreciate your patience as I put the finishing touches on it.
 
 # About Me
 
-<img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
+<img src="https://fyapeng.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
 Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
 I received my bachelor's degree in economics from School of Economics, University of Chinese Academy of Social Sciences(SOE,UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE,UCASS. 
 
-Learn more about me at my **CV**[(English Version)](https://yapengf.com/cv/cv_en.pdf) or [(Chinese Version)](https://yapengf.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
+Learn more about me at my **CV**[(English Version)](https://fyapeng.com/cv/cv_en.pdf) or [(Chinese Version)](https://fyapeng.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
 
 - WeChat ID: yapeng_f
 - Email: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
@@ -40,7 +39,7 @@ Learn more about me at my **CV**[(English Version)](https://yapengf.com/cv/cv_en
   
 My research interests focus on social security, microeconomic theory, health economics and public economics. Recently, I have been working on some research related to public policy evaluation, mathematical methods of economics, medical insurance research, fiscal and tax policies, etc.
 
-One of my early research proposal [(July 2023, 中文Chinese Version)](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. 
+One of my early research proposal [(July 2023, 中文Chinese Version)](https://fyapeng.com/file/proposal-yapeng-2023.pdf)🔗 focused on the land finance in China, and the relationship between the government and the market, while I thought I would probably continue to do this research in the future. 
 
 ---
 

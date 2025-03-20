@@ -4,17 +4,17 @@ permalink: /main-zh/index.html
 title: 简介
 ---
 
-> 更新时间：2024年7月19日&nbsp;  [English Version (英文)](https://yapengf.com/)
+> 更新时间：2024年7月19日&nbsp;  [English Version (英文)](https://fyapeng.com/)
 
-#### "网站仍在建设中，敬请期待！"
+
 
 ## 简介
 
-<img src="https://yapengf.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
+<img src="https://fyapeng.com/images/fuyapeng.png" class="floatpic" width="360" height="400">
 
 我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），研究方向为微观经济理论与公共政策、健康经济学。
 
-您可以点击查看我的**个人简历**[（英文版）](https://yapengf.com/cv/cv_en.pdf)以及[（中文版）](https://yapengf.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
+您可以点击查看我的**个人简历**[（英文版）](https://fyapeng.com/cv/cv_en.pdf)以及[（中文版）](https://fyapeng.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
 
 - 微信账号: yapeng_f
 - 电子邮箱1: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
@@ -38,7 +38,7 @@ title: 简介
 - 健康经济学
 - 公共经济学
   
-我的研究兴趣主要集中在社会保障、微观经济理论、卫生经济学和公共经济学。最近，我正在从事一些与公共政策评估、医疗保险研究、财政和税收政策等有关的研究。而我之前的一份 [研究计划（2023年）](https://yapengf.com/file/proposal-yapeng-2023.pdf)🔗侧重于中国的土地财政以及政府与市场之间的关系，我认为自己今后可能会继续从事这方面的研究。
+我的研究兴趣主要集中在社会保障、微观经济理论、卫生经济学和公共经济学。最近，我正在从事一些与公共政策评估、医疗保险研究、财政和税收政策等有关的研究。而我之前的一份 [研究计划（2023年）](https://fyapeng.com/file/proposal-yapeng-2023.pdf)🔗侧重于中国的土地财政以及政府与市场之间的关系，我认为自己今后可能会继续从事这方面的研究。
 
 ---
 

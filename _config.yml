@@ -2,7 +2,7 @@ title: Ya-Peng Fu
 tagline: Ph.D. Student in Economics
 description: Ph.D. student in Economics
 #Comment out url when working locally to resolve base urls correctly
-url: https://yapengf.com
+url: https:/fyapeng.com
 
 # Owner/author information
 owner:
@@ -11,8 +11,8 @@ owner:
   bio: Ph.D. Student in Economics
   email: yapengf@outlook.com
   emailq: fuyapeng@ucass.edu.cn
-  cv_en: https://yapengf.com/cv/cv_en.pdf
-  cv_zh: https://yapengf.com/cv/cv_zh.pdf
+  cv_en: https://fyapeng.com/cv/cv_en.pdf
+  cv_zh: https://fyapeng.com/cv/cv_zh.pdf
   subions: "芾椿YA"
   wechat: "yapeng_f"
   locals: "联系地址"
