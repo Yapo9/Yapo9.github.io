@@ -14,11 +14,11 @@ title: 简介
 
 我是付亚鹏（Evan），本科毕业于中国社会科学院大学（UCASS）经济学院——我也将继续在这里攻读经济学博士学位（西方经济学，直博），研究方向为微观经济理论与公共政策、健康经济学。
 
-您可以点击查看我的**个人简历**[（英文版）](https://fyapeng.com/cv/cv_en.pdf)以及[（中文版）](https://fyapeng.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。
+您可以点击查看我的**个人简历**[（英文版）](https://fyapeng.com/cv/cv_en.pdf)以及[（中文版）](https://fyapeng.com/cv/cv_zh.pdf)，此外也可通过微信账号或者电子邮件联系我，欢迎交流与合作。当然，我也期望您能够关注我的微信公众号“芾椿YA”（ID：feichunya）以获得更多可能有用的信息。
 
 - 微信账号: yapeng_f
-- 电子邮箱1: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
-- 电子邮箱2: [***fuyapeng@ucass.edu.cn***](mailto:fuyapeng@ucass.edu.cn)
+- 电子邮箱1: [***fuyapeng@ucass.edu.cn***](mailto:fuyapeng@ucass.edu.cn)
+- 电子邮箱2: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
 
 ---
 

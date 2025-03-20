@@ -14,11 +14,11 @@ Here is **Ya-Peng Fu (Evan, 付亚鹏)**.
 
 I received my bachelor's degree in economics from School of Economics, University of Chinese Academy of Social Sciences(SOE,UCASS) in June 2024, and will continue to pursue my Ph.D. in economics at SOE,UCASS. 
 
-Learn more about me at my **CV**[(English Version)](https://fyapeng.com/cv/cv_en.pdf) or [(Chinese Version)](https://fyapeng.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way.
+Learn more about me at my **CV**[(English Version)](https://fyapeng.com/cv/cv_en.pdf) or [(Chinese Version)](https://fyapeng.com/cv/cv_zh.pdf).If you are interested in any aspect of me, I would love to chat and collaborate, please contact me via Wechat or email, or any other way. Of course, I hope you can follow my *WeChat Subscription* "芾椿YA"(ID: feichunya) for more information.
 
 - WeChat ID: yapeng_f
-- Email: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
-- Alternative Email: [***fuyapeng@ucass.edu.cn***](mailto:fuyapeng@ucass.edu.cn)
+- Email: [***fuyapeng@ucass.edu.cn***](mailto:fuyapeng@ucass.edu.cn)
+- Alternative Email: [***fuyapeng.evan@gmail.com***](mailto:fuyapeng.evan@gmail.com)
 
 ---
 
