@@ -28,6 +28,8 @@ links:
     url: /awards/
   - title: Activity
     url: /activity/
+  - title: Resource
+    url: /resource/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
