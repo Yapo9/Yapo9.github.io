@@ -48,3 +48,4 @@ title: Resource
 ### Slide-based Notes
 
 - **《专制和民主的经济起源》**&ensp; 【[mp文章](https://mp.weixin.qq.com/s?__biz=Mzg4MDc1ODY1MQ==&mid=2247484901&idx=1&sn=97d93853c80487723abf98b182d6df30&chksm=cf711ff1f80696e78d66dd0476902c4becf6dc397356ce237847302aa1b4400829d3f632315d&token=779298807&lang=zh_CN#rd)，[slides](https://fyapeng.com/file/resources/slide1.pdf)】
+- **Grossman(1972)健康需求人力资本模型及之后**&ensp; 【[mp文章](https://mp.weixin.qq.com/s?__biz=Mzg4MDc1ODY1MQ==&mid=2247485691&idx=1&sn=42457380e29e9a763470027479f04e45&chksm=cf7112eff8069bf9b2c52b5218c9aff2a0f12b618dfe2edadf20f0295488936473170fec4a53&token=1785998284&lang=zh_CN#rd)，[slides](https://fyapeng.com/file/resources/slide2.pdf)】
